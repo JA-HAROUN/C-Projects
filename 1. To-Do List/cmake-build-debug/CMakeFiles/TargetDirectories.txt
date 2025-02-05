@@ -1,0 +1,3 @@
+D:/Engineering/Learn/0. Learn C/Projects/1. To-Do List/cmake-build-debug/CMakeFiles/1__To_Do_List.dir
+D:/Engineering/Learn/0. Learn C/Projects/1. To-Do List/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Engineering/Learn/0. Learn C/Projects/1. To-Do List/cmake-build-debug/CMakeFiles/rebuild_cache.dir
